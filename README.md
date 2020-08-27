@@ -5,7 +5,7 @@ SCENARIO I: Imagenet weights
 SCENARIO II: ISIC 2019 weights  
 SCENARIO III: Imagenet weights +clinical features  
 SCENARIO IV v1: ISIC 2019 weights + clinical features (ML ensemble)  
-SCENARIO IV v2: ISIC 2019 weights + clinical features (ML ensemble)  
+SCENARIO IV v2: ISIC 2019 weights + clinical features (DL ensemble)  
 SCENARIO IV v3: ISIC 2019 weights + clinical features (parallel)  
 
 
