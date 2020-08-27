@@ -8,10 +8,14 @@ SCENARIO IV v1: ISIC 2019 weights + clinical features (ML ensemble)
 SCENARIO IV v2: ISIC 2019 weights + clinical features (DL ensemble)  
 SCENARIO IV v3: ISIC 2019 weights + clinical features (parallel)  
 
+# Base Paper
+**The impact of patient clinical information on automated skin cancer detection**
+Baseline with CNN (images): 0.710 F1-score
+Baseline with CNN (images) + clinical features: 0.790 F1-score
 
-Paper score: 79% with clinical
+<a href="https://www.sciencedirect.com/science/article/pii/S0010482519304019?via%3Dihub">Paper link</a>
 
-RESULT
+# RESULT
 
 <table>
 <thead>
@@ -64,3 +68,6 @@ RESULT
   </tr>
 </tbody>
 </table>
+
+# ISIC 2019  
+Implementation for ISIC 2019 competation is available [here](https://github.com/talhaanwarch/ISIC2K19)
