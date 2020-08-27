@@ -1,6 +1,11 @@
 # skin_cancer_detection_phone_camera
 Diagnosis of Skin cancer using mobile phone camera and deep learning
+# TO DO
+Check formulas of metrics  
+Add balance accuracy  
+Add labels to ROC  
 
+# SCENARIOs
 SCENARIO I: Imagenet weights  
 SCENARIO II: ISIC 2019 weights  
 SCENARIO III: Imagenet weights +clinical features  
