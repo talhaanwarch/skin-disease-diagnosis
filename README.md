@@ -16,46 +16,46 @@ RESULT
 <table>
 <thead>
   <tr>
-    <th></th>
     <th>SCENARIOS</th>
     <th>Precision</th>
     <th>Recall</th>
     <th>F1 Score</th>
     <th>Accuracy</th>
     <th>AUC score</th>
+    <th>Link</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td></td>
     <td>SCENARIO I</td>
     <td></td>
     <td></td>
     <td></td>
     <td>0.736</td>
     <td>0.744</td>
+    <td><a href="https://github.com/talhaanwarch/skin_cancer_detection_phone_camera/blob/master/base_model.ipynb">Click here</a></td>
   </tr>
   <tr>
-    <td></td>
     <td>SCENARIO II</td>
     <td></td>
     <td></td>
     <td>0.805</td>
     <td>0.750</td>
     <td>0.809</td>
+    <td><a href="https://github.com/talhaanwarch/skin_cancer_detection_phone_camera/blob/master/Scenario_II.ipynb">Click here</a></td>
   </tr>
   <tr>
-    <td></td>
     <td>SCENARIO III</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td></td>
     <td>SCENARIO IV</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
