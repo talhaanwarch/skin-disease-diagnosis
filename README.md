@@ -46,8 +46,8 @@ Baseline with CNN (images) + clinical features: 0.790 F1-score
   </tr>
   <tr>
     <td>SCENARIO II</td>
-    <td>0.709</td>
-    <td>0.672</td>
+    <td>NI</td>
+    <td>NI</td>
     <td>0.799</td>
     <td>0.752</td>
     <td>0.810</td>
