@@ -46,11 +46,11 @@ Baseline with CNN (images) + clinical features: 0.790 F1-score
   </tr>
   <tr>
     <td>SCENARIO II</td>
-    <td>NI</td>
-    <td>NI</td>
-    <td>0.799</td>
-    <td>0.752</td>
-    <td>0.810</td>
+    <td>0.795</td>
+    <td>0.790</td>
+    <td>0.792</td>
+    <td>0.741</td>
+    <td>0.808</td>
     <td><a href="https://github.com/talhaanwarch/skin_cancer_detection_phone_camera/blob/master/Scenario_II.ipynb">Click here</a></td>
   </tr>
   <tr>
